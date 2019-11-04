@@ -1,4 +1,6 @@
 Download:
 https://mega.nz/#!JoswGaYB!LBZT3UnM--NO7aB2rhQl1Ya-Q69vIT0oZXVlXfh_cos
 
-Extract all ZIP files to the game folder.
+Extract all ZIP files to the game folder. No need to create or use a subfolder.
+
+Mirror uploaded by yamibito @ http://www.legendsworld.net/phpBB3/viewtopic.php?p=86191#p86191
